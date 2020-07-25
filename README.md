@@ -1,2 +1,2 @@
 # springboot-essentials
-SpringBoot Essentials By William Suane - DevDojo
+Spring Boot Essentials By William Suane - DevDojo
