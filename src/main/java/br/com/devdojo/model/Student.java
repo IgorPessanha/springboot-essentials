@@ -14,7 +14,7 @@ import static java.util.Arrays.asList;
  * @author igor - By DevDojo
  */
 @Entity
-public class Student extends  AbstractEntity {
+public class Student extends AbstractEntity {
 
     @NotEmpty(message = "O campo nome do estudante é obrigatório")
     private String name;
